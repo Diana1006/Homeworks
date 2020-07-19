@@ -1,0 +1,18 @@
+body {
+    background: #ffffe5;
+}
+
+img {
+    display: block;
+    margin: 30px auto;
+    border: double 10px #FF9AA2;
+    margin-bottom: 10px;
+}
+
+.one {
+    color:#FF9AA2;
+    background-color: #FFB7B2;
+    border-left: solid 5px #FF9AA2;
+    border-bottom: solid 5px  #FF9AA2;
+    
+}
