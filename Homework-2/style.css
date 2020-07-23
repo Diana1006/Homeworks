@@ -1,0 +1,125 @@
+body {
+    background-color: #888888;
+}
+ 
+table {
+    width: 100%;
+    letter-spacing: 1px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+ 
+th {
+    text-transform: uppercase;
+    background-color: #333333;
+    padding: 10px;
+}
+ 
+th, td {
+    width: 12%;
+}
+ 
+td {
+    padding: 10px;
+    vertical-align: top;
+}
+
+.radius-left {
+    border-top-left-radius: 10px;
+}
+
+.radius-right {
+    border-top-right-radius: 10px;
+}
+.number {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.calendar {
+    height: 150px;
+    background-color: #515151;
+}
+
+.single-day {
+    background-color: #ff9999;
+ }
+
+.event-start {
+    background-color: #85d6ff;
+    margin-right: -20px;
+}
+ 
+.event-middle {
+    background-color: #85d6ff;
+    margin-left: -20px;
+    margin-bottom: -20px;
+    margin-right: -20px;
+}
+.event-end {
+    background-color:#85d6ff;
+    margin-left: -20px;
+ 
+}
+
+.event-start-photo {
+    background-color: #34c534;
+    margin-right: -20px;
+}
+
+.event-middle-photo {
+    background-color:  #34c534;
+    margin-left: -20px;
+    margin-bottom: -20px;
+    margin-right: -20px;
+}
+
+.event-middle-2-photo {
+    background-color:  #34c534;
+    margin-left: -20px;
+    margin-bottom: -20px;
+    margin-right: -20px;
+}
+
+.event-end-photo {
+    background-color: #34c534;
+    margin-left: -20px;
+    }
+
+.single-day-test {
+    background-color: #dd88cd;
+    }
+.single-day-interview {
+    background-color: #ff9999;
+         }
+.event-start-workshop   {
+    background-color: #34c534;
+    margin-right: -20px;
+       
+    }
+.event-end-workshop {
+    background-color: #34c534;
+    margin-left: -20px;
+    }
+.event-start-vocation {
+    background-color: #dd88cd;
+    margin-right: -20px;
+    }
+.event-end-vocation {
+    background-color:#dd88cd;
+    margin-left: -20px;
+    }
+.single-day-brunch {
+    background-color:#85d6ff
+    }
+.event {
+    text-align: center;
+    color: #4c4c4c;
+    display: block;
+    margin-top: 6px ;
+    margin-bottom: 6px;
+    height: 18px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    border-radius: 10px;
+}
